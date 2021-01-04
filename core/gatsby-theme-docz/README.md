@@ -132,7 +132,7 @@ As default theme system we are using the [Theme-UI](https://theme-ui.com/), it's
 
 You can modify our based theme creating your own style, combining these modifications with the component shadowing and creating a totally different documentation.
 
-Check our [base theme object](https://github.com/pedronauck/docz/blob/feat/gatsby/core/gatsby-theme-docz/src/theme/index.js) to see the properties.
+Check our [base theme object](https://github.com/doczjs/docz/blob/master/core/gatsby-theme-docz/src/theme/index.js) to see the properties.
 
 To create your own theme definition use the `doczrc.js` and set your properties in the `themeConfig` like that:
 
